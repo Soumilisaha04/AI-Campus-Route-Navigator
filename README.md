@@ -28,7 +28,7 @@ A* uses:
 The CSE locations are CSE Laboratory, CSE_AKC Seminar Hall and CSE_Reflxon Room.
 To enter CSE, the route must go through Tower 2 Front/Rear Entry and Lift Area. While inside CSE, only CSE locations can be visited until returning to Lift Area. To exit, the route goes from Lift Area to a Tower 2 entry and then to other campus locations.
 
-## Hoe to Run :-
+## How to Run :-
 Open this folder in VS Code and run:
 ```bash
 python main.py
